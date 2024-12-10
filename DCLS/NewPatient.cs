@@ -16,5 +16,11 @@ namespace DCLS
         {
             InitializeComponent();
         }
+
+        private void Button_Register_Click(object sender, EventArgs e)
+        {
+            var Window = new NewPatient_Completion();
+            Window.ShowDialog();
+        }
     }
 }

@@ -16,5 +16,15 @@ namespace DCLS
         {
             InitializeComponent();
         }
+
+        private void Button_Close_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Button_ConfirmDeletion_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>tooth.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -57,6 +60,12 @@
     </Compile>
     <Compile Include="InitialScreen.Designer.cs">
       <DependentUpon>InitialScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewLog.Designer.cs">
+      <DependentUpon>NewLog.cs</DependentUpon>
     </Compile>
     <Compile Include="NewPatient.cs">
       <SubType>Form</SubType>
@@ -90,6 +99,12 @@
     <Compile Include="ViewLog.Designer.cs">
       <DependentUpon>ViewLog.cs</DependentUpon>
     </Compile>
+    <Compile Include="NewLog_Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewLog_Type.Designer.cs">
+      <DependentUpon>NewLog_Type.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewPatientProfile.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +113,15 @@
     </Compile>
     <EmbeddedResource Include="InitialScreen.resx">
       <DependentUpon>InitialScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewLog.resx">
+      <DependentUpon>NewLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPatient.resx">
+      <DependentUpon>NewPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewPatient_Completion.resx">
+      <DependentUpon>NewPatient_Completion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -109,6 +133,21 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SearchPatient.resx">
+      <DependentUpon>SearchPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchPatient_Delete_Confirmation.resx">
+      <DependentUpon>SearchPatient_Delete_Confirmation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewLog.resx">
+      <DependentUpon>ViewLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewLog_Type.resx">
+      <DependentUpon>NewLog_Type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPatientProfile.resx">
+      <DependentUpon>ViewPatientProfile.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -124,6 +163,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\tooth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="tooth.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

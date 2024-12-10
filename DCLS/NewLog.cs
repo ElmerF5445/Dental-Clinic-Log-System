@@ -10,22 +10,16 @@ using System.Windows.Forms;
 
 namespace DCLS
 {
-    public partial class NewPatient_Completion : Form
+    public partial class NewLog : Form
     {
-        public NewPatient_Completion()
+        public NewLog()
         {
             InitializeComponent();
         }
 
-        private void Button_OK_Click(object sender, EventArgs e)
+        private void Button_AddToLog_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void Button_GoToLogCreation_Click(object sender, EventArgs e)
-        {
-            var Window = new NewLog();
-            Window.Show();
         }
     }
 }

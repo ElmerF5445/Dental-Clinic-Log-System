@@ -16,5 +16,11 @@ namespace DCLS
         {
             InitializeComponent();
         }
+
+        private void Button_AddLog_Click(object sender, EventArgs e)
+        {
+            var Window = new NewLog_Type();
+            Window.ShowDialog();
+        }
     }
 }

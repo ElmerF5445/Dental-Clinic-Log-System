@@ -33,13 +33,13 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.Button_Logs = new System.Windows.Forms.Button();
+            this.Button_Search = new System.Windows.Forms.Button();
+            this.Button_Register = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -81,6 +81,48 @@
             this.label4.Text = "Makes your smile fantastic";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.pictureBox1);
+            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(216, 426);
+            this.groupBox1.TabIndex = 5;
+            this.groupBox1.TabStop = false;
+            // 
+            // Button_Logs
+            // 
+            this.Button_Logs.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button_Logs.Location = new System.Drawing.Point(298, 252);
+            this.Button_Logs.Name = "Button_Logs";
+            this.Button_Logs.Size = new System.Drawing.Size(335, 48);
+            this.Button_Logs.TabIndex = 6;
+            this.Button_Logs.Text = "Logs";
+            this.Button_Logs.UseVisualStyleBackColor = true;
+            this.Button_Logs.Click += new System.EventHandler(this.Button_Logs_Click);
+            // 
+            // Button_Search
+            // 
+            this.Button_Search.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button_Search.Location = new System.Drawing.Point(298, 183);
+            this.Button_Search.Name = "Button_Search";
+            this.Button_Search.Size = new System.Drawing.Size(335, 48);
+            this.Button_Search.TabIndex = 7;
+            this.Button_Search.Text = "Search";
+            this.Button_Search.UseVisualStyleBackColor = true;
+            this.Button_Search.Click += new System.EventHandler(this.Button_Search_Click);
+            // 
+            // Button_Register
+            // 
+            this.Button_Register.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button_Register.Location = new System.Drawing.Point(298, 319);
+            this.Button_Register.Name = "Button_Register";
+            this.Button_Register.Size = new System.Drawing.Size(335, 48);
+            this.Button_Register.TabIndex = 8;
+            this.Button_Register.Text = "New profile";
+            this.Button_Register.UseVisualStyleBackColor = true;
+            this.Button_Register.Click += new System.EventHandler(this.Button_Register_Click);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::DCLS.Properties.Resources.tooth;
@@ -91,54 +133,15 @@
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.pictureBox1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(216, 426);
-            this.groupBox1.TabIndex = 5;
-            this.groupBox1.TabStop = false;
-            // 
-            // button1
-            // 
-            this.button1.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(298, 192);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(335, 48);
-            this.button1.TabIndex = 6;
-            this.button1.Text = "Logs";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(298, 251);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(335, 48);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "Search";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(298, 313);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(335, 48);
-            this.button3.TabIndex = 8;
-            this.button3.Text = "New profile";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
             // InitialScreen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(700, 450);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Button_Register);
+            this.Controls.Add(this.Button_Search);
+            this.Controls.Add(this.Button_Logs);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -146,9 +149,9 @@
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "InitialScreen";
-            this.Text = "InitialScreen";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Text = "Urban Smiles Dental Clinic";
             this.groupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -162,9 +165,9 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button Button_Logs;
+        private System.Windows.Forms.Button Button_Search;
+        private System.Windows.Forms.Button Button_Register;
     }
 }
 

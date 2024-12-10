@@ -10,22 +10,22 @@ using System.Windows.Forms;
 
 namespace DCLS
 {
-    public partial class SearchPatient : Form
+    public partial class NewLog_Type : Form
     {
-        public SearchPatient()
+        public NewLog_Type()
         {
             InitializeComponent();
         }
 
-        private void Button_Entry_Delete_Click(object sender, EventArgs e)
+        private void Button_Patient_New_Click(object sender, EventArgs e)
         {
-            var Window = new SearchPatient_Delete_Confirmation();
+            var Window = new NewPatient();
             Window.ShowDialog();
         }
 
-        private void Button_Entry_Load_Click(object sender, EventArgs e)
+        private void Button_Patient_Old_Click(object sender, EventArgs e)
         {
-            var Window = new ViewPatientProfile();
+            var Window = new NewLog();
             Window.ShowDialog();
         }
     }

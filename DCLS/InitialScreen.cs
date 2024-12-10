@@ -16,5 +16,23 @@ namespace DCLS
         {
             InitializeComponent();
         }
+
+        private void Button_Search_Click(object sender, EventArgs e)
+        {
+            var Window = new SearchPatient();
+            Window.ShowDialog();
+        }
+
+        private void Button_Register_Click(object sender, EventArgs e)
+        {
+            var Window = new NewPatient();
+            Window.ShowDialog();
+        }
+
+        private void Button_Logs_Click(object sender, EventArgs e)
+        {
+            var Window = new ViewLog();
+            Window.ShowDialog();
+        }
     }
 }

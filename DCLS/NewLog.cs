@@ -19,7 +19,8 @@ namespace DCLS
 
         private void Button_AddToLog_Click(object sender, EventArgs e)
         {
-            this.Close();
+            var Window = new NewLog_Completion();
+            Window.Show();
         }
     }
 }

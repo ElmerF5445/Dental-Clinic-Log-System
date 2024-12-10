@@ -12,7 +12,6 @@ C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Progr
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\bin\Debug\DCLS.exe
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\bin\Debug\DCLS.pdb
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.csproj.AssemblyReference.cache
-C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.InitialScreen.resources
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.Properties.Resources.resources
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.csproj.GenerateResource.cache
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.csproj.CoreCompileInputs.cache
@@ -26,3 +25,5 @@ C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Progr
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.ViewLog.resources
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.NewLog_Type.resources
 C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.ViewPatientProfile.resources
+C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.NewLog_Completion.resources
+C:\Users\Elmer\Documents\College 3 Files\First Semester\26315 Event-Driven Programming\Output\07 Laboratory Exercise & Performance Task 1\DCLS\obj\Debug\DCLS.InitialScreen.resources

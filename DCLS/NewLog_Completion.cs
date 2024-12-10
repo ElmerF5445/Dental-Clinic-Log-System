@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace DCLS
 {
-    public partial class AddNewLog : Form
+    public partial class NewLog_Completion : Form
     {
-        public AddNewLog()
+        public NewLog_Completion()
         {
             InitializeComponent();
+        }
+
+        private void Button_OK_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

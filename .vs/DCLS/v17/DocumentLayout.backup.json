@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newlog_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newlog_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newlog_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newlog_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\initialscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newpatient_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newpatient_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newpatient_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newpatient_completion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\viewpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\viewpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\viewlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\viewlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\searchpatient_delete_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\searchpatient_delete_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\searchpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\searchpatient_delete_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\dcls\\initialscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\initialscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newlog_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newlog_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|c:\\users\\elmer\\documents\\college 3 files\\first semester\\26315 event-driven programming\\output\\07 laboratory exercise \u0026 performance task 1\\dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\newpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\dcls\\searchpatient_delete_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\searchpatient_delete_confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\dcls\\viewpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C857472-9539-4B37-B492-851F48D14A6A}|DCLS\\DCLS.csproj|solutionrelative:dcls\\viewpatientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "InitialScreen.cs",
               "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs",
               "RelativeDocumentMoniker": "DCLS\\InitialScreen.cs",
               "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs",
               "RelativeToolTip": "DCLS\\InitialScreen.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vw0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T04:44:11.578Z",
               "IsPinned": true,
@@ -76,13 +88,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "InitialScreen.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.Designer.cs",
               "RelativeDocumentMoniker": "DCLS\\InitialScreen.Designer.cs",
               "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.Designer.cs",
               "RelativeToolTip": "DCLS\\InitialScreen.Designer.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAUwHsAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwJYAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T04:45:21.368Z",
               "IsPinned": true,
@@ -90,69 +102,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewPatient_Completion.cs",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient_Completion.cs",
-              "RelativeDocumentMoniker": "DCLS\\NewPatient_Completion.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient_Completion.cs",
-              "RelativeToolTip": "DCLS\\NewPatient_Completion.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxkAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "SearchPatient.cs",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
+              "RelativeDocumentMoniker": "DCLS\\SearchPatient.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
+              "RelativeToolTip": "DCLS\\SearchPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:29:59.174Z",
+              "WhenOpened": "2024-12-10T10:09:38.875Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NewPatient.cs",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs",
-              "RelativeDocumentMoniker": "DCLS\\NewPatient.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs",
-              "RelativeToolTip": "DCLS\\NewPatient.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwBUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:28:54.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewPatient.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs",
-              "RelativeDocumentMoniker": "DCLS\\NewPatient.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs [Design]",
-              "RelativeToolTip": "DCLS\\NewPatient.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:28:43.6Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InitialScreen.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs",
-              "RelativeDocumentMoniker": "DCLS\\InitialScreen.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs [Design]",
-              "RelativeToolTip": "DCLS\\InitialScreen.cs [Design]",
+              "Title": "NewLog_Completion.cs",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Completion.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewLog_Completion.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Completion.cs",
+              "RelativeToolTip": "DCLS\\NewLog_Completion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:05:50.345Z",
+              "WhenOpened": "2024-12-10T10:04:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewLog.cs",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewLog.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog.cs",
+              "RelativeToolTip": "DCLS\\NewLog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:02:52.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewLog_Completion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Completion.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewLog_Completion.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Completion.cs [Design]",
+              "RelativeToolTip": "DCLS\\NewLog_Completion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:02:40.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\ViewLog.cs",
+              "RelativeDocumentMoniker": "DCLS\\ViewLog.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\ViewLog.cs [Design]",
+              "RelativeToolTip": "DCLS\\ViewLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:25.591Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SearchPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
+              "RelativeDocumentMoniker": "DCLS\\SearchPatient.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs [Design]",
+              "RelativeToolTip": "DCLS\\SearchPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:23.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NewPatient_Completion.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient_Completion.cs",
               "RelativeDocumentMoniker": "DCLS\\NewPatient_Completion.cs",
               "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient_Completion.cs [Design]",
               "RelativeToolTip": "DCLS\\NewPatient_Completion.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:29:36.034Z",
+              "WhenOpened": "2024-12-10T09:50:21.364Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "NewPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewPatient.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewPatient.cs [Design]",
+              "RelativeToolTip": "DCLS\\NewPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:20.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewLog_Type.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Type.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewLog_Type.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog_Type.cs [Design]",
+              "RelativeToolTip": "DCLS\\NewLog_Type.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:18.883Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog.cs",
+              "RelativeDocumentMoniker": "DCLS\\NewLog.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\NewLog.cs [Design]",
+              "RelativeToolTip": "DCLS\\NewLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:50:16.838Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InitialScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs",
+              "RelativeDocumentMoniker": "DCLS\\InitialScreen.cs",
+              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\InitialScreen.cs [Design]",
+              "RelativeToolTip": "DCLS\\InitialScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:49:52.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ViewPatientProfile.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\ViewPatientProfile.cs",
               "RelativeDocumentMoniker": "DCLS\\ViewPatientProfile.cs",
@@ -164,20 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SearchPatient_Delete_Confirmation.cs",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient_Delete_Confirmation.cs",
-              "RelativeDocumentMoniker": "DCLS\\SearchPatient_Delete_Confirmation.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient_Delete_Confirmation.cs",
-              "RelativeToolTip": "DCLS\\SearchPatient_Delete_Confirmation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:24:53.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SearchPatient_Delete_Confirmation.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient_Delete_Confirmation.cs",
               "RelativeDocumentMoniker": "DCLS\\SearchPatient_Delete_Confirmation.cs",
@@ -185,31 +257,6 @@
               "RelativeToolTip": "DCLS\\SearchPatient_Delete_Confirmation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T05:24:30.453Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SearchPatient.cs",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
-              "RelativeDocumentMoniker": "DCLS\\SearchPatient.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
-              "RelativeToolTip": "DCLS\\SearchPatient.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:24:19.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SearchPatient.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs",
-              "RelativeDocumentMoniker": "DCLS\\SearchPatient.cs",
-              "ToolTip": "C:\\Users\\Elmer\\Documents\\College 3 Files\\First Semester\\26315 Event-Driven Programming\\Output\\07 Laboratory Exercise \u0026 Performance Task 1\\DCLS\\SearchPatient.cs [Design]",
-              "RelativeToolTip": "DCLS\\SearchPatient.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:23:50.582Z",
               "EditorCaption": " [Design]"
             }
           ]
